@@ -1,8 +1,10 @@
 import time
 import config
 
+#the following credentials have been removed for privacy purposes, but they are obtained through the www.reddit.com website
+
 username = ""
 password = ""
 
-client_id = "asezVep81naeNA"
-client_secret = "1L7_-IeZeNiJwIlQgYv3RwS-0zY"
+client_id = ""
+client_secret = ""
