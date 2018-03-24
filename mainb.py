@@ -3,6 +3,7 @@ import config
 import time
 
 
+# Artist class to store info on artists
 class Artist(object):
     name = ''
     insta = ''
